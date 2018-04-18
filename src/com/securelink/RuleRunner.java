@@ -42,7 +42,7 @@ public class RuleRunner {
 		
 		//String[] args2 = {"100", "50", "30", "50", "60", "20", "500"};
 		//String[] args2 = {"500", "500", "1500"};
-		args = new String[] {"0", "1000"};
+		//args = new String[] {"0", "1000"};
 			
 		// Creating 3 test rules with predefined logic. Can inject the logic here.
 		Rule ruleATest = new RuleA("RuleA", args);
